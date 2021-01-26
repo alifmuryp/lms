@@ -35,7 +35,10 @@ kontent
 {{if eq .URL "/search/"}}
 ```
 ```
-if ne .Permalink
+# ==
+{{if eq .RelPermalink "/search/"}} 
+# !=
+{{if ne .RelPermalink "/search/"}}
 ```
 ```
 kode
