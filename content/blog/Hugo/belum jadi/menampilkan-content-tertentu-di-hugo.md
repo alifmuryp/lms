@@ -32,10 +32,10 @@ kontent
 {{ if not .IsHome }}
 ```
 ```
-kode
+{{if eq .URL "/search/"}}
 ```
 ```
-kode
+if ne .Permalink
 ```
 ```
 kode
