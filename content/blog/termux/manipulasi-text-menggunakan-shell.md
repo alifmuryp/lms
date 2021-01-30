@@ -15,7 +15,7 @@ tags:
 
 
 image: "img/none.min.png" 
-thumbnail : "thumb/none.png" 
+  
  
 description: "Disini saya akan menjelaskan bagaiamana cara saya menghapus beberapa bariis" 
 keywords: "cara hapus ptext pada baris tertentu dengan shell" 

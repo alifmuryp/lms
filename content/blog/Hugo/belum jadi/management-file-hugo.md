@@ -14,8 +14,8 @@ tags:
 - Template
 
 
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
+  
+  
  
 description: "Cara management hugo agarvlrbih rapi." 
 keywords: "Cara management hugo agarvlrbih rapi." 

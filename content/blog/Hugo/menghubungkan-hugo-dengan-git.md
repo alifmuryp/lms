@@ -14,8 +14,8 @@ tags:
 - Git
 
 
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
+  
+  
  
 description: "Cara menghubungkan hugo dengan git, github, gitlab." 
 keywords: "Cara menghubungkan hugo dengan git, github, gitlab." 

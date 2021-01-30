@@ -13,10 +13,6 @@ tags:
 - Hugo
 - Template
 
-
-image: "img/none.png"
-thumbnail : "thumb/none.png"
-
 description: "Cara membuat template hugo dari nol."
 keywords: "Cara membuat template hugo dari nol."
 ---
@@ -31,7 +27,7 @@ hello world!
 2. Disitu kalian akan diberikan beberapa file kosong yang bisa kalian isi.
 3. Buka theme/nameTheme/layout/index.html
 4. Salin kode berikut
-```
+```html
 <!DOCTYPE html>
 <html>
 <head itemscope itemtype="{{ .Site.BaseURL }}">
@@ -59,7 +55,7 @@ keterangan :
 5. lalu isi Partial tersebut/atau kalian bisa hapus atau ganti sesuai kebutuhan kalian.
 
 1. Partial main/head.html
-```
+```html
 {{ partial "main/seoku.html" . }}
 <link rel="stylesheet" href="/css/svg.css" type="text/css" media="all" />
 {{ partial "css/main.html" . }}

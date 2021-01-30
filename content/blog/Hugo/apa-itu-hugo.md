@@ -12,9 +12,6 @@ type: pages
 tags: 
 - Hugo
 
-
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
  
 description: "Apa itu hugo? Apa kelebihan hugo? Kenapa harus pakek hugo?" 
 keywords: "Apa itu hugo? Apa kelebihan hugo? Kenapa harus pakek hugo?" 

@@ -14,8 +14,8 @@ tags:
 - Template
 
 
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
+  
+  
  
 description: "Membuat Breadcrumb di Hugo" 
 keywords: "Membuat Breadcrumb di Hugo" 

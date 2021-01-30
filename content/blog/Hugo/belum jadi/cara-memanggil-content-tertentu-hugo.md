@@ -14,8 +14,8 @@ tags:
 - Template
 
 
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
+  
+  
  
 description: "Cara memanggil konten tertentu untuk mempermudah management konten." 
 keywords: "Cara memanggil konten tertentu untuk mempermudah management konten." 

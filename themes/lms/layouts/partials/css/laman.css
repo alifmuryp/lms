@@ -5,12 +5,10 @@
 {{$bayangan := $rumah.bayangan }}
 {{$muda := $rumah.muda }}
 .post-body pre {
-    background-color: #000;
     /* warna background */
-    border-left: 5px solid {{$warna2}}
-
-;
-/* variasi border kiri */
+    background-color: #333;
+    /* variasi border kiri */
+    border-left: 5px solid {{$warna2}};
 padding: 0;
 margin: .5em auto;
 white-space: pre;

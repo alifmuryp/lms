@@ -14,8 +14,8 @@ tags:
 - Template
 
 
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
+  
+  
  
 description: "Cara menampilakan konten di halaman tertentu" 
 keywords: "Cara menampilakan konten di halaman tertentu" 

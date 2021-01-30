@@ -12,10 +12,6 @@ type: pages
 tags: 
 - hugo
 
-
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
- 
 description: "Cara install hugo lewat termux" 
 keywords: "Cara install hugo lewat termux" 
 --- 
@@ -28,7 +24,7 @@ Sebelumnya kita sudah membahas apa itu hugo sendiri dan fungsinya, jika belum si
 ## Cara Install Lewat Termux
 1. update dulu repo kalian
 ```
-pkg update -y && pkg upgrade
+pkg update  && pkg upgrade
 ```
 2. Install hugo dengan cara
 ```
@@ -59,10 +55,10 @@ https://themes.gohugo.io/
 3. klick download
 ![screenshot gambar download tema hugo from MuryP](/menginstall-hugo/1.png)
 
-4. Biasanya disana kita diberikan cara mengunduhnya, seperti berikut
+4. Biasanya disana kita diberikan cara mengunduhnya, seperti berikut. Jika sudah dapat folder downloadnya, maka pindahkan ke `cd nameSite/themes/`
 ![screenshot gambar cara install hugo](/menginstall-hugo/2.png)
 
-5. Ubah configtoml sesuai nama tema
+5. Ubah configtoml sesuai nama tema (nama tema bisa kalian ubah dengan mengganti nama folder)
 ![screenshot gambar configtoml](/menginstall-hugo/3.png)
 6. selesai
 

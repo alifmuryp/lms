@@ -14,8 +14,8 @@ tags:
 - Template
 
 
-image: "img/none.png" 
-thumbnail : "thumb/none.png" 
+  
+  
  
 description: "Cara membuat pagenation di Hugo" 
 keywords: "Cara membuat pagenation di Hugo" 
