@@ -60,7 +60,7 @@
     <input type="checkbox" id="nav4" />
     <label for="nav4">Kategori Blog
     </label>
-    <div class="mynav dropdown">
+    <div class="mynav dropdown tag">
       {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
       <a href="/tags/{{$name}}">
         <b>{{ .Count }}</b>{{.Page.Title }} </a>

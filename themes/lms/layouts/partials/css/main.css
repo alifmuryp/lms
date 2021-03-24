@@ -244,8 +244,7 @@
     border-bottom: 5px solid {{$nav1}};
     margin-top: 10px;
   }
-  .mynav2 input[id^="nav"] + label::before
-  {
+  .mynav2 input[id^="nav"] + label::before{
     content: ".";
     position: absolute;
     color: transparent !important;
@@ -510,7 +509,6 @@
     background: {{$nav1}} !important;
   }
   /* ========== Footer ========== */
-
   #footer {
     background: {{$nav1}};
     padding: 50px 10px;
